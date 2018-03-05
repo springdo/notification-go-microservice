@@ -1,0 +1,5 @@
+# Comments start with hash
+smtpServer="smtp.gmail.com"
+smtpUsername="@gmail.com"
+smtpPassword=""
+smtpPort=587
